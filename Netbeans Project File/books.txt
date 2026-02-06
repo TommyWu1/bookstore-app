@@ -1,0 +1,4 @@
+Harry Potter,25.0
+Test Book,20.0
+Software Book,125.0
+Discrete Math,50.0
