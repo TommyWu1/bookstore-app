@@ -1,4 +1,4 @@
-# Bookstore Application
+# Bookstore Point of Sale (POS) Application
 A Java-based desktop application designed to manage bookstore operations, featuring distinct workflows for administrators (owners) and customers. The project demonstrates proficiency in object-oriented design, persistent storage, and interactive UI development.
 
 ## 🛠 Tech Stack
